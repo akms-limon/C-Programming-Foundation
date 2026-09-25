@@ -1,7 +1,14 @@
-.exe
-.bin
-.zip
-*/.cph/
-*/.vscode/
+# Compiled files
+*.exe
+
+# Input / output files
+*.in
+*.out
+*.txt
+
+# Competitive programming tool files
+*.prob
+.cph/
+
+# Other generated files
 *.bin
-*.zip
